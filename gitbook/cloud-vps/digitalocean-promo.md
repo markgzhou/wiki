@@ -4,6 +4,8 @@ description: Get $25 and receive $25 for free
 
 # DigitalOcean Promo
 
+{% embed url="https://m.do.co/c/b3c894c8c4d7" %}
+
 Use this link to get $25 in DigitalOcean credit for new accounts. The credit makes it easy to test and run small projects, spin up a development server, or try managed services without an immediate charge.
 
 [**https://m.do.co/c/b3c894c8c4d7**](https://m.do.co/c/b3c894c8c4d7)

@@ -4,15 +4,11 @@ description: Free $20 credits for new signup
 
 # Railway Promo
 
-
-
 Promo Link: [https://railway.com?referralCode=kanban](https://railway.com/?referralCode=kanban)
 
 Referral code: **`kanban`**
 
-
 [![Railway logo](../.gitbook/assets/railway-logo.png)](https://railway.com/?referralCode=kanban)
-
 
 ### How to use
 
@@ -21,8 +17,9 @@ Referral code: **`kanban`**
 3. Connect your GitHub repo or create a new project from a template.
 4. Choose any managed add-on (database, Redis) to try with the provided credits.
 
-***
+{% embed url="https://railway.com/?referralCode=kanban" %}
 
+***
 
 ### Highlights
 
@@ -37,4 +34,3 @@ Referral code: **`kanban`**
 ### Affiliate disclosure
 
 This is a referral link. If you sign up using the link above I may receive referral credit from Railway. The referral does not increase your cost.
-
