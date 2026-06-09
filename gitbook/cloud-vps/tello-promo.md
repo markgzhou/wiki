@@ -18,10 +18,8 @@ Highlights
 * Nationwide coverage across the USA
 * Ideal for simple, budget-friendly mobile service
 
+[![Railway logo](../.gitbook/assets/Tello_Mobile_logo.svg)](https://tello.com/account/register?_referral=P3QP9656)
 [Sign up with Tello](https://tello.com/account/register?_referral=P3QP9656)
-
-<figure><img src="../.gitbook/assets/Tello_Mobile_logo.svg" alt=""><figcaption></figcaption></figure>
-
 referral code: **P3QP9656**
 
 ***
