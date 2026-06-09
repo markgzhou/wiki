@@ -33,4 +33,4 @@ Referral code: **`kanban`**
 
 ### Affiliate disclosure
 
-This is a referral link. If you sign up using the link above I may receive referral credit from Railway. The referral does not increase your cost.
+This is a referral link. If you sign up using the link above I may receive referral credit from [_**Railway**_](https://railway.com/?referralCode=kanban). The referral does not increase your cost.

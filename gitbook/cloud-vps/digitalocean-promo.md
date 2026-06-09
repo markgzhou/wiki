@@ -29,5 +29,5 @@ Promo link [**https://m.do.co/c/b3c894c8c4d7**](https://m.do.co/c/b3c894c8c4d7)
 
 ### Affiliate disclosure
 
-This is a referral link. If you sign up using the link above I may receive a referral credit from DigitalOcean. The referral does not increase your cost.
+This is a referral link. If you sign up using the link above I may receive a referral credit from [_**DigitalOcean**_](https://m.do.co/c/b3c894c8c4d7). The referral does not increase your cost.
 
