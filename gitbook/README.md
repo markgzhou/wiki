@@ -1,8 +1,8 @@
 ---
-description: Your Gateway to Affordable Services & Open Source Tooling
+description: Your Gateway to Affordable Services & AI Tooling
 ---
 
-# Dadao DB
+# Home
 
 Welcome to DaDao DB – the ultimate hub for discovering cost-effective cloud services, exclusive promo offers, and curated open source tool templates to supercharge your projects. Whether you're a developer, startup founder, or hobbyist, we simplify access to reliable infrastructure and tools without breaking the bank.
 
