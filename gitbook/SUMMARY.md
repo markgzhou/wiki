@@ -6,4 +6,4 @@
 
 * [DigitalOcean Promo](cloud-vps/digitalocean-promo.md)
 * [Railway Promo](cloud-vps/railway-promo.md)
-* [Tello (USA)](cloud-vps/page-3.md)
+* [Tello (USA)](cloud-vps/tello-promo.md)
