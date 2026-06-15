@@ -2,6 +2,10 @@
 
 * [Home](README.md)
 
+## Tutorials
+
+* [The Most Cost-Effective Way to Start an n8n Service with a Vector Store](tutorials/the-most-cost-effective-way-to-start-an-n8n-service-with-a-vector-store.md)
+
 ## Cloud & Service <a href="#cloud-vps" id="cloud-vps"></a>
 
 * [Railway $20 free credits](cloud-vps/railway-promo.md)
