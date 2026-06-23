@@ -2,6 +2,11 @@
 
 * [Home](README.md)
 
+## Tech Radar
+
+* [2026](tech-radar/2026/README.md)
+  * [Streamlit vs Gradio vs Panel: Which Python Web Framework Should You Use in 2026?](tech-radar/2026/streamlit-vs-gradio-vs-panel-which-python-web-framework-should-you-use-in-2026.md)
+
 ## Tutorials
 
 * [The Most Cost-Effective Way to Start an n8n Service with a Vector Store](tutorials/the-most-cost-effective-way-to-start-an-n8n-service-with-a-vector-store.md)
