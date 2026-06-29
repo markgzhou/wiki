@@ -10,6 +10,7 @@
 ## Tutorials
 
 * [The Most Cost-Effective Way to Start an n8n Service with a Vector Store](tutorials/the-most-cost-effective-way-to-start-an-n8n-service-with-a-vector-store.md)
+* [Deploy a Mumble Voice Server in Minutes — No Port Forwarding, No Problem](tutorials/deploy-a-mumble-voice-server-in-minutes-no-port-forwarding-no-problem.md)
 * [Deploy a Streamlit App to Cloud in 5 Minutes](tutorials/deploy-a-streamlit-app-to-cloud-in-5-minutes.md)
 
 ## Cloud & Service <a href="#cloud-vps" id="cloud-vps"></a>
